@@ -6,7 +6,6 @@ columns:
   - status
   - initial_quantity
   - sold_quantity
-  - available_quantity
   - shipping_local_pick_up
   - shipping_free_shipping
   - shipping_mode
