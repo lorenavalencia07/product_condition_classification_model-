@@ -1,0 +1,18 @@
+columns:
+  - listing_type_id
+  - buying_mode
+  - accepts_mercadopago
+  - automatic_relist
+  - status
+  - initial_quantity
+  - sold_quantity
+  - available_quantity
+  - shipping_local_pick_up
+  - shipping_free_shipping
+  - shipping_mode
+  - has_warranty
+  - price_ars
+  - diff_start_stp_time
+  - diff_created_updated
+  - sell_products
+  - payment_method_grouped

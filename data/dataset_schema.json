@@ -1,0 +1,86 @@
+{
+    "seller_address": {
+        "country": {
+            "name": "Argentina",
+            "id": "AR"
+        },
+        "state": {
+            "name": "Capital Federal",
+            "id": "AR-C"
+        },
+        "city": {
+            "name": "San Cristóbal",
+            "id": "TUxBQlNBTjkwNTZa"
+        }
+    },
+    "warranty": null,
+    "sub_status": [],
+    "condition": "new",
+    "deal_ids": [],
+    "base_price": 80,
+    "shipping": {
+        "local_pick_up": true,
+        "methods": [],
+        "tags": [],
+        "free_shipping": false,
+        "mode": "not_specified",
+        "dimensions": null
+    },
+    "non_mercado_pago_payment_methods": [
+        {
+            "description": "Transferencia bancaria",
+            "id": "MLATB",
+            "type": "G"
+        }
+    ],
+    "seller_id": 8208882349,
+    "variations": [],
+    "site_id": "MLA",
+    "listing_type_id": "bronze",
+    "price": 80,
+    "attributes": [],
+    "buying_mode": "buy_it_now",
+    "tags": [
+        "dragged_bids_and_visits"
+    ],
+    "listing_source": "",
+    "parent_item_id": "MLA6553902747",
+    "coverage_areas": [],
+    "category_id": "MLA126406",
+    "descriptions": [
+        "{'id': 'MLA4695330653-912855983'}"
+    ],
+    "last_updated": "2015-09-05T20:42:58.000Z",
+    "international_delivery_mode": "none",
+    "pictures": [
+        {
+            "size": "500x375",
+            "secure_url": "https://a248.e.akamai.net/mla-s1-p.mlstatic.com/5386-MLA4695330653_052013-O.jpg",
+            "max_size": "1200x900",
+            "url": "http://mla-s1-p.mlstatic.com/5386-MLA4695330653_052013-O.jpg",
+            "quality": "",
+            "id": "5386-MLA4695330653_052013"
+        }
+    ],
+    "id": "MLA4695330653",
+    "official_store_id": null,
+    "differential_pricing": null,
+    "accepts_mercadopago": true,
+    "original_price": null,
+    "currency_id": "ARS",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/5386-MLA4695330653_052013-I.jpg",
+    "title": "Auriculares Samsung Originales Manos Libres Cable Usb Oferta",
+    "automatic_relist": false,
+    "date_created": "2015-09-05T20:42:53.000Z",
+    "secure_thumbnail": "https://a248.e.akamai.net/mla-s1-p.mlstatic.com/5386-MLA4695330653_052013-I.jpg",
+    "stop_time": 1446669773000,
+    "status": "active",
+    "video_id": null,
+    "catalog_product_id": null,
+    "subtitle": null,
+    "initial_quantity": 1,
+    "start_time": 1441485773000,
+    "permalink": "http://articulo.mercadolibre.com.ar/MLA4695330653-auriculares-samsung-originales-manos-libres-cable-usb-oferta-_JM",
+    "sold_quantity": 0,
+    "available_quantity": 1
+}
